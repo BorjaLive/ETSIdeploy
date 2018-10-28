@@ -1,0 +1,4 @@
+[autorun]
+open=DeployETSI.exe
+icon=DeployETSI.exe,0
+label=ETSI B0vE Deploy
